@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #002626;
+  color: white;
+  font-family: sans-serif;
+}
+
+.container {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+}
