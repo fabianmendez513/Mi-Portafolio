@@ -1,0 +1,25 @@
+.contact {
+    display: none; /* se muestra con JS al pulsar Contact */
+  }
+  
+  .contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    max-width: 320px;
+  }
+  
+  .contact-form input[type="text"],
+  .contact-form input[type="email"],
+  .contact-form input[type="tel"] {
+    padding: 10px;
+    border: none;
+    background: #e0dddd;
+    color: #002626;
+  }
+  
+  .gender, .checkbox-group {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+  }

@@ -1,0 +1,12 @@
+.profile-img {
+    width: 120px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+  }
+  
+  .name-inline {
+    font-size: 24px;
+    font-family: cursive;
+    color: rgb(248, 72, 28);
+    margin-bottom: 20px;
+  }
